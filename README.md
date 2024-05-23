@@ -1,4 +1,4 @@
-<img  src='data/PwSB.gif'>
+<img  src='data/mainlogo.gif'>
 
 # Корпоративный стартап
 
@@ -6,5 +6,5 @@ _Разработка сервиса распознавания лиц и опе
 
 | №| Этап|Семестр |
 |-|-|:-:|
-| 1 | [Анализ существующих открытых решений по распознаванию лиц](https://github.com/NazarovMichail/Diploma-MIPT/tree/master/OSA)|2 |
-| 2 |[Анализ существующих алгоритмов распознавания лиц](https://github.com/NazarovMichail/Diploma-MIPT/tree/master/AR) |2 |
+| 1 | [Анализ существующих открытых решений по распознаванию лиц](https://github.com/NazarovMichail/Diploma-MIPT/tree/master/OSA)|II |
+| II |[Анализ существующих алгоритмов распознавания лиц](https://github.com/NazarovMichail/Diploma-MIPT/tree/master/AR) |II |
