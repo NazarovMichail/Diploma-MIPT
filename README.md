@@ -7,4 +7,4 @@
 | №| Этап|Семестр |
 |-|-|:-:|
 | 1 | [Анализ существующих открытых решений по распознаванию лиц](https://github.com/NazarovMichail/Diploma-MIPT/tree/master/OSA)|II |
-| II |[Анализ существующих алгоритмов распознавания лиц](https://github.com/NazarovMichail/Diploma-MIPT/tree/master/AR) |II |
+| 2 |[Анализ существующих алгоритмов распознавания лиц](https://github.com/NazarovMichail/Diploma-MIPT/tree/master/AR) |II |
